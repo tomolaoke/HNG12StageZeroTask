@@ -5,12 +5,17 @@
 
 ![image](https://github.com/user-attachments/assets/a5550073-e44c-45e8-a4fd-8da4db513f7e)
 
-This is a simple public API built with Node.js and Express.js that returns basic information in JSON format. It fulfils the requirements for the HNG Stage Zero Task.
+This is a simple public API built with Node.js and Express.js that returns basic information in JSON format.
+
+It fulfils the requirements for the HNG Stage Zero Task.
 
 ## Project Description
 The API provides the following information:
+
 My registered email address (used to register on the HNG12 Slack workspace).
+
 Returns the current DateTime as an ISO 8601 formatted timestamp.
+
 GitHub URL https://github.com/tomolaoke/HNG12StageZeroTask
 
 ## Setup Instructions:
